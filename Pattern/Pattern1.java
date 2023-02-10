@@ -1,3 +1,11 @@
+
+*
+**
+***
+**
+*
+
+
 import java.util.Scanner;
 
 public class Pattern1{
@@ -21,3 +29,4 @@ public class Pattern1{
         }
     }
 }
+
